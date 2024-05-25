@@ -1,5 +1,7 @@
 # 3-DOF-Motion-Replicator-Robotic-Arm
 
+A robot to replicate the movements of a secondary manually-operated arm
+
 ## Year: 2015-2016.
 
 ## Description.
